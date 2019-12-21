@@ -3,3 +3,9 @@ This code was written to help extract all hotels in a particular Nigerian state.
 - Name of the hotel
 - Adrress
 - State
+
+
+#Libraries used:
+- urrlib
+- BeautifulSoup
+- pandas
