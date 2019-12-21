@@ -35,8 +35,8 @@ for z in d:
     y=z[f+2:]
     state.append(k)
     address.append(y)
-for n in range(1.(len(c)+1)):
+for n in range(1,(len(c)+1)):
     num.append(n)
 #export to csv file
 df=pd.DataFrame(data={'S/N':num,'NAMES':c,'MAJOR CITY':lga,'STATE':state,'ADDRESS':address})
-df.to_csv(r'C:\Users\MARX\enuguhotel.csv',index=None,header=True)
+df.to_csv(r'C:\directory_choice\enuguhotel.csv',index=None,header=True)
