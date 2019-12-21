@@ -6,6 +6,8 @@ This code was written to help extract all hotels in any Nigerian state. This cod
 - Local Government
 
 
+
+
 Libraries used:
 - urrlib
 - BeautifulSoup
