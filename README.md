@@ -7,8 +7,6 @@ The data is organized into different sections:
 - State
 - Local Government
 
-
-
 Libraries used:
 - urrlib
 - BeautifulSoup
